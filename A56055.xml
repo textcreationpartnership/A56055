@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for gaining and encouraging sea-men in his Majesty's service</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683-1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56055</idno>
+            <idno type="STC">Wing P3779A</idno>
+            <idno type="STC">ESTC R221549</idno>
+            <idno type="EEBO-CITATION">99832847</idno>
+            <idno type="PROQUEST">99832847</idno>
+            <idno type="VID">37322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2151:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for gaining and encouraging sea-men in his Majesty's service</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[ca. 1689]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; publication date estimated by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Sailors --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37322:1" rendition="simple:additions"/>
+            <head>Propoſitions for Gaining and Encouraging Sea-men in his <hi>MAJESTY'S</hi> Service.</head>
+            <p n="1">I. <hi>That an Account of all Shiping in imploy be given in by a day ſet. A penalty on Commanders imploying unregiſter'd Veſſels. The penalties to be divided between the Informers, and to the uſe of married Seamen; the recovery there<g ref="char:EOLhyphen"/>of to be provided for by the ſpeedieſt Methods.</hi>
+            </p>
+            <p n="2">II. <hi>That all Seamen between</hi> 6 <hi>and</hi> 60 <hi>Years of age offer themſelves to be Re<g ref="char:EOLhyphen"/>giſter'd; yearly, if required by Proclamation. To encourage Regiſtring that all the Regiſter'd be allow'd Smart Money and Penſions, tho' wounded, when Licenſed in Merchants Ships. And this will alſo cauſe a good defence of Merchants Ships.</hi>
+            </p>
+            <p n="3">III. <hi>That Bounty Money be given to all that come into his Majeſty's Service, by the times ſet.</hi>
+            </p>
+            <p n="4">IV. <hi>That Licenſes be given each Year to as many as can be ſpared from his Ma<g ref="char:EOLhyphen"/>jeſty's Service, which have been longeſt in it, to go into Merchants Ships.</hi>
+            </p>
+            <p n="5">V. <hi>That their Wages be ſtated and clear'd to them when diſcharged or turn'd over to another Ship.</hi>
+            </p>
+            <p n="6">VI. <hi>That a Moiety of their Wages be paid to their Wives, or other Aſſigns, eve<g ref="char:EOLhyphen"/>ry ſix Months, during their foreign Voyages.</hi>
+            </p>
+            <p n="7">VII. <hi>That all Veſſels ſailing with licenſed Men and Regiſter'd, ſhall not be li<g ref="char:EOLhyphen"/>able to any interuption or ſtop in their Voyages.</hi>
+            </p>
+            <p>
+               <hi>A Penalty on any Master entertaining an unlicenſed Sea-man; an Officer to go on Board all Veſſels coming in and going out of Port, and examine their Licenſes; the Maſter refuſing it, to be liable to a Penalty: The Master ob<g ref="char:EOLhyphen"/>lig'd to have a Liſt of his Ship's Company always fixed up in ſome publick place of the Veſſel.</hi>
+            </p>
+            <p>
+               <hi>Ships coming home from foreign Voyages not to be liable to the Penalties, till</hi> 20 <hi>days after they arrive in the Port they are bound to.</hi>
+            </p>
+            <p n="8">VIII. <hi>A Penalty on ſuch as ſhall Conceal, or knowingly entertain unlicenſed Seamen.</hi>
+            </p>
+            <p>
+               <hi>A Reward to be given to ſuch as ſhall diſcover an unlicenſed Sea-man; to be paid to the diſcoverer by the Collector of the next Sea-Port, and ſent by the Officer who Conveys ſuch Sea-man, with allowance for his Journey.</hi>
+            </p>
+            <p n="9">IX. <hi>That, for Increaſe of Sea-men, Licenſes be given to any Land-men to ſerve in Merchant's Ships for two Years; who ſhall afterwards be oblig'd to come in<g ref="char:EOLhyphen"/>to his Majeſties Service.</hi>
+            </p>
+            <p>
+               <hi>Land-men to bring Vouchers for their being ſuch. A Penalty on vouching falſely; on counterfeiting Licenſes, or perſonating another.</hi>
+            </p>
+            <p n="10">X. <hi>Certificates to be given to Maſters of all Veſſels above</hi> 50 <hi>Tuns.</hi>
+            </p>
+            <p n="11">XI. <hi>Certificates to be given to aged Sea-men.</hi>
+            </p>
+            <p>THe ground is a Regiſter with a Dicipline annexed, interwoven with En<g ref="char:EOLhyphen"/>couragements; by which all advantages to be made in the Sea Service, either in the King's or Merchants Ships, will fall to them who ſhall be the for<g ref="char:EOLhyphen"/>wardeſt in complying with their Duty.</p>
+            <p>The Regiſter of Sailers (tho' all are commanded to it, and will find them<g ref="char:EOLhyphen"/>ſelves obliged by their Intereſt to come into it) is ſo far voluntary, that no
+<pb n="2" facs="tcp:37322:2"/>Man that ſtands out will be under the Penalty of one peny, or the leaſt corpo<g ref="char:EOLhyphen"/>ral Puniſhment, or any new Obligation, but being denied the advantages propoſed to thoſe who ſhall actually do what he refuſes with the Condition of them.</p>
+            <p>The Penalties on Maſters of Veſſels, and ſome others, tho' ſometimes ne<g ref="char:EOLhyphen"/>ceſſary, will be liable to no exception, when it ſhall be conſider'd, that no one can be here incurr'd but by obſtinacy and willfulneſs; and that when they ſhall be acquainted with the whole Courſe, the obſervance will appear ſo plain<g ref="char:EOLhyphen"/>ly their advantage, that all temptation to the breach thereof will ceaſe; for that they will thereby have more Men, at all times, and on much eaſier terms then at preſent they have.</p>
+            <p>The Officers for this Service need not be formidable as to their number or charge; one Regiſter and a Clerk will be ſufficient in any out-Port to receive ſuch as offer themſelves or Veſſels to be Regiſtr'd, and to make their returns to the head Regiſter in the Port of <hi>London;</hi> and to give out the Certificates and Licenſes: And the going on Board and examination of Licenſes may be performed by the Cuſtom-houſe Officers uſed to ſuch ſort of ſervices, with ſome ſmall addition for this.</p>
+            <p>The Regiſtring of all Shiping in imploy will be a uſeful meaſure whereby to know whether the Sailers as to their number, have complyed in Regiſtring themſelves; and for aſcertaining the Maſters: A pretence under which it is judged that three times the real number ſhelter themſelves from the King's Service.</p>
+            <p>The Regiſtring or ſurvey of Sea-men yearly, will give a certainty of what number may be depended on for the Service of the following Year for the King, and what may be Licenſed for the Merchants.</p>
+            <p>The giving Licenſes to ſerve the Merchants, to ſuch as have ſerved the King, is the greateſt Encouragement that can be given to Sea-men; it being the expectation of thoſe extraordinary Gains that makes all the hiding and ſculking; and 'tis therefore but juſt that they who have readily complyed with their Duty ſhould have them; and not they, who by their refractories are the cauſe of all the difficulties the Service now labours under.</p>
+            <p>If the Reward to the diſcoverers of abſconding Men be made equal to the Bounty Money, 'twill ſoon appear to them more their Intereſt to take it them<g ref="char:EOLhyphen"/>ſelves for coming into the King's ſervice, then to let another have it for bring<g ref="char:EOLhyphen"/>ing them in.</p>
+            <p>The making the Merchants Ships the Nurſery of Sea-men, as 'tis the natu<g ref="char:EOLhyphen"/>ral way, and that by which all ours have been bred, ſo 'tis ſtill to be purſued: 'Tis to be ſeen how uſeleſs raw Men are in the King's Ships: That Men accu<g ref="char:EOLhyphen"/>ſtomed to eaſier living on Shore, cannot bear the hardſhips of a Sea-faring life, that therefore the giving them ſo long time in Merchans Ships will har<g ref="char:EOLhyphen"/>den them by degrees, and make them ſerviceable.</p>
+            <p>The ways in preſent uſe for imploying Sea-men either in the Kings or Mer<g ref="char:EOLhyphen"/>chants ſervice, appear to be nothing but a confuſed ſcramble for Men; as if a thing taken up on ſome ſudden occaſion, when there was not time to uſe Or<g ref="char:EOLhyphen"/>der, or fall into Diſcipline.</p>
+            <p>'Tis the duty of all Sailers to ſerve the Nation in War; and for their readi<g ref="char:EOLhyphen"/>er complyance therewith, ſeveral advantages have been given them: The tra<g ref="char:EOLhyphen"/>ding Veſſels to get Men for their uſe, outvie the King's advantages by giving greater Wages: For the gain of theſe, the Men hide till they think the dan<g ref="char:EOLhyphen"/>ger of a Preſs over; being then ſure of Imployment, and double gains for their whole time: By which means the greater advantages come to them who avoid the duty.</p>
+            <pb n="3" facs="tcp:37322:2" rendition="simple:additions"/>
+            <p>If it be thought expedient for the King's ſervice to give yet greater Encou<g ref="char:EOLhyphen"/>ragements, the Merchant is ſtill ready to bid againſt them: So that the grea<g ref="char:EOLhyphen"/>ter the Advantages are that are given to the deſerving on the King's part, it does but advance them higher to ſuch as reſerve themſelves for the Merchants.</p>
+            <p>The husbandry of ſuch conduct to the publick, which pays on both ſides, I ſhall not inſiſt on, but ſhall farther ſhow, that this will be the conſequence: For tho' it were urged that it muſt come to an end, for that ſuch charge could not be born by ſome parts of Trade, yet when Trade is reduc'd to conſiſt in almoſt nothing but what is of abſolute neceſſity to us (how far 'tis come to<g ref="char:EOLhyphen"/>wards that I do not determine) the price muſt be paid let it be almoſt what it will: This is viſible in the Trade to <hi>Newcaſtle,</hi> upon which the Wages are whatever they pleaſe to demand: But Penalties would be too great an advance for them at once to get over, being always liable and made the Intereſt of the Officers and others alſo to look after.</p>
+            <p>How far ſuch offer of Advantages will prevail may appear by a late Expe<g ref="char:EOLhyphen"/>riment; when for ſix weeks together there was offer'd three Months pay as a Bounty, (and what Advantages can be given greater then ready Money) yet with ſuch ſucceſs to the Fleet now fitting out, as ſhows how little ſuch ways alone are to be depended on.</p>
+            <p>The miſchievous Effects of this growing daily more dangerous to the Na<g ref="char:EOLhyphen"/>tion, ſeveral expedients have been offer'd for redreſs; in which a Regiſter is laid down as a foundation by moſt, tho' with ſome difference in the practice of it.</p>
+            <p>'Tis the opinion of ſome, that a voluntary Regiſter ſhould be eſtabliſhed, for a ſet number of Men, who, 'tis expected ſhould enter themſelves into it, being prevail'd on by the Advantages and Privileges given thereby; and that all others be incapable of thoſe Advantages, and left at their liberty to take their chance, of being preſs'd; or eſcaping it, and making their beſt Market on the Merchants.</p>
+            <p>Voluntarineſs and Liberty indeed ſound well, but let it be conſider'd how far they are ſo in this Caſe, and what effect they may probably have to<g ref="char:EOLhyphen"/>wards a Redreſs. If theſe Privileges be things at a diſtance, as the being excuſed from Pariſh-Dutys of Conſtable, <hi>&amp;c.</hi> they uſually weigh not much, and are things ſuch Men think themſelves little concern'd in; but a true teſt will be, what will they be worth in Money? (for all Advantages are are reduceable to Money, either gain'd or ſaved) will that be more then the Bounty-Money late offer'd? Why then ſhould it expect a better effect? But, granting that they will come in upon it; the Traders will have ſo many the fewer, and they who ſtand out, the greater Advantage from them: What hold is there then on theſe Regiſtr'd Men, but that they ſhould run into their ſervice? If it be anſwer'd, that they are Liſted into the King's ſervice, and ſhall be accounted Deſerters, and liable to be proſecuted as ſuch; the volun<g ref="char:EOLhyphen"/>tary Regiſter proves nothing but a new way of Liſting; and thoſe in it under a much ſeverer obligation, than is here offer'd; and all the circumſtances will appear to be the ſame as before, that the greateſt Advantages will accrue to them that ſtand out, and the hardſhips lie on thoſe that do their duty.</p>
+            <p>From the foregoing Conſiderations, I inferr the neceſſity of a Diſcipline, with the Encouragements: By which I underſtand, a ſteady courſe of ob<g ref="char:EOLhyphen"/>liging all Equally to do their Duty, by giving the Encouragements to thoſe only who actually do it; and that they may have the firſt Advantages, who have already that way deſerved them.</p>
+            <p>I ſhall now ſhow how that may be done, under the Propoſitions above inſerted. The firſt ſtep into the Regiſter intitles them to Penſions, if hurt
+<pb n="4" facs="tcp:37322:3"/>in the whole courſe of their Service: They have Bounty-money when they come into the King's Ships: They have their Pay when turn'd over; which is a redreſs of one of their greateſt Grievances: And having ſerved, ſuch time as their Numbers found will allow for their being relieved, will have all the Advantage to be made in Merchants Service; which (tho' probably the price of Wages <hi>per</hi> Month may fall) will be to them greater Earnings than at preſent; for that they may with good aſſurance and ſecurity em<g ref="char:EOLhyphen"/>ploy their whole time, without the loſs of any by hiding in Times of Preſs.</p>
+            <p>The manner and time of relieving, and giving out Licenſes, may properly be at the time the great Ships are laid up; the Regiſter, or Survey, having been taken the fore-part of the Year: The Licenſes for the whole following Year, to be given to a proportion of each Ship's Company; the remainder, ſome to be kept for the relief of ſuch as are to be licens'd out of the Cruiſing Frigats, when they come next into Port, and the reſt to be diſmiſs'd with Furloes, till their attendance ſhall be required the next Spring.</p>
+            <p>The ſuffering none but licens'd Men for the Merchants, will be no hin<g ref="char:EOLhyphen"/>drance to Trade; they can now have no more than the King's Service can ſpare; and by this way they will have as many; and having them at all times without interruption (whereas they now hide, and lye ſtill out of all Service half their time) it will be equal to double their number; beſide the additional Proviſion of permitting Land-men for their Service; and being ſecure from having their Men taken from them in the middle of a Voyage, or when their Buſineſs moſt wants them. Nor need the Traders be at a ſtand one day; for the Men, now protected in their Service, may be allow'd the Licenſes till the King's Ships come in, and then it directs others to be aſſigned them.</p>
+            <p>What is offer'd for the bringing Land-men into the Sea-ſervice, is from this ground, that a War neceſſarily puts a great ſtop on ſome Handy-craft Trades and Manufacturers, who can turn themſelves to no new thing which will bring them in better Earnings than the Merchants Service, which is an Employment that has ſomething in it of Trade alſo; who, when they ſhall ſee that they may have a certainty of time, will, probably, good numbers of them take to it, who will not venture in under the apprehenſion of being preſs'd the next day.</p>
+            <p>The want of Sea-men will be every day greater, by the courſe of natural Mortality, which takes away a conſtant proportion; by the loſſes at Sea in Storms and Hurricanes; by Fights and Impriſonments; by the want of the uſual Supply from Trading Veſſels; and by the greateſt of all, as to the King's Service, the improvements made in the Arts of evading the preſent ways of bringing them into the Service.</p>
+            <p>All which enforce the neceſſity of a ſpeedy and effectual remedy; leſt the Cure come too late; or an imperfect one being offer'd at, prove the ſame in effect as none at all; and give ſome Men an Apprehenſion that any future Attempt will be fruitleſs and in vain.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> John Whitlock <hi>near</hi> Stationers-Hall.</p>
+            <pb facs="tcp:37322:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
